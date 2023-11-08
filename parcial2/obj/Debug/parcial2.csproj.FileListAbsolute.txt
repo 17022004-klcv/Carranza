@@ -1,0 +1,7 @@
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\bin\Debug\parcial2.exe.config
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\bin\Debug\parcial2.exe
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\bin\Debug\parcial2.pdb
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\obj\Debug\parcial2.csproj.AssemblyReference.cache
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\obj\Debug\parcial2.exe
+C:\Users\Karla\OneDrive\Escritorio\Carranza_Karla_Parcial2\parcial2\parcial2\obj\Debug\parcial2.pdb
